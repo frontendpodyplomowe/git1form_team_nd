@@ -32,8 +32,6 @@ open index.html in browser
 
 ## Technologies Used
 - javascript
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
 
 ## Features
 List the ready features here:
