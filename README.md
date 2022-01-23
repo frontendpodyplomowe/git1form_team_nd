@@ -12,15 +12,17 @@
 - [ ] dodane ulubione miasta (checkbox)
 - [ ] ulubiona muzyka (dropdown)
 
-## opis
+## opis uruchomienia
 
+```
+cd git1form_team_nd
+open index.html
 
-
-## zrzut ekranu
-
+```
 
 ## technologie
 
-Project is created with:
+Formularz zrobiony jest w technologii:
 * Html5
 * Css
+* Font Awsome
