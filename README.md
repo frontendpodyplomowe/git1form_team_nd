@@ -2,12 +2,28 @@
 
 
 
-### Jak tworzyć aplikację?
+## Projekt do przećwiczenia działania terminala git-bash oraz Git Hub
 
-- [x] @mentions, #refs, [links](),
-**formatting**, and <del>tags</del>
-supported
-- [x] list syntax required (any
-unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+### Zawartość
+
+#### Formularz z elementami:
+
+- [x] Imię
+- [x] Hasło
+- [x] Email
+- [x] Lata doświadczenia
+- [x] Ulubione miasto (select option)
+- [x] Textarea
+- [x] Ulubiony sport (radio)
+- [x] Dodaj plik
+- [x] Reset
+- [x] Przycisk wyszukaj
+- [ ] Galeria zdjęć
+
+#### Nagłówek i stopka
+
+```javascript
+function test() {
+console.log("look ma`, no spaces");
+}
+```
