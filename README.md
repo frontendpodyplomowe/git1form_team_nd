@@ -11,3 +11,16 @@
 - [x] dodany button
 - [ ] dodane ulubione miasta (checkbox)
 - [ ] ulubiona muzyka (dropdown)
+
+## opis
+
+
+
+## zrzut ekranu
+
+
+## technologie
+
+Project is created with:
+* Html5
+* Css
