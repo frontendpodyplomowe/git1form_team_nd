@@ -32,7 +32,7 @@ password.addEventListener('keyup', ()=>{
     } else{
         password.classList.remove("password-valid", "password-invalid");
     }
-
+```
 # Wykorzystane technologie
 ## js
 ## html
