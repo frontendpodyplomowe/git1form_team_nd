@@ -2,12 +2,22 @@
 
 ### Jak otworzyć aplikacje?
 
-TASK LISTS
+Projekt ze studiow slużący do nauki współpracy z wykorzystaniem technologii Git.
 
-- [x] @mentions, #refs, [links](),
-      **formatting**, and <del>tags</del>
-      supported
-- [x] list syntax required (any
-      unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+## Elementy strony:
+
+- [x] Zdjęcie
+- [x] Tytul
+- [x] Formularz zawierający:
+  - [x] Imię
+  - [x] Hasło
+  - [ ] Email
+  - [ ] Lata doświadczenia
+
+## Wykorzystane technologie 
+
+- JavaScript
+- HTML
+- CSS
+
+[Link do strony](https://frontendpodyplomowe.github.io/git1form_team/)
