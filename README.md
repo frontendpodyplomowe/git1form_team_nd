@@ -13,6 +13,8 @@
 # Kody spradzające
 ## hasło
 
+```javascript
+
 const password = document.querySelector("#field2");
 password.addEventListener('keyup', ()=>{
     password.value = password.value.trim();
