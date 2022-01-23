@@ -1,15 +1,10 @@
 # git1form_team_nd
 
+Stworzenie formularza. Podgląd [tu](https://frontendpodyplomowe.github.io/git1form_team_nd/)
 
-### Jak otworzyć aplikację?
+##użute technologie:
+
+* font awesome
+* google fonts
 
 
-
-
-- [x] @mentions, #refs, [links](),
-**formatting**, and <del>tags</del>
-supported
-- [x] list syntax required (any
-unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
