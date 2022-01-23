@@ -13,7 +13,8 @@ Lista zadan w naszym projekcie:
 - [x] dodany button
 - [x] dodane ulubione miasta (checkbox)
 - [x] ulubiona muzyka (dropdown)
-
+- [ ] zapis danych z formularza do LocalStorage
+ 
 ### Jak uruchomić projekt:
 ```
 cd git1form_team_nd
