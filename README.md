@@ -8,10 +8,10 @@
     - [x] hasło przy pomocy ```<input type="password'>``` <input type="password">
     - [x] wiek przy pomocy ```<input type="number'>``` <input type="number">
     - [x] ulubione miasto przy pomocy ```<select><option></option></select>``` 
-        <select name="cities">
+        (<select name="cities">
             <option name="city-choice" value="Warszawa">Warszawa</option>
             <option name="city-choice" value="Bydgoszcz">Bydgoszcz</option>
-        <select>
+        <select>)
     - [x] Komentarz przy pomocy ```<textarea></textarea>``` <textarea></textarea>
 
     - [x] ulubiony sport przy pomocy ```<input name="sport-choice" type="radio">``` <label>Sport<input type="radio" name="sport-choice"></label>
