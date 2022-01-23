@@ -1,6 +1,6 @@
 # git1form_team_nd
 
-### Jak otworzyć aplikacje
+### Pola formularza
 
 - [x] imię
 - [x] hasło
@@ -9,8 +9,9 @@
 - [x] dodale pole do opisania dłuższego teksu
 - [x] dodany wybór sportu (radio)
 - [x] dodany button
-- [ ] dodane ulubione miasta (checkbox)
-- [ ] ulubiona muzyka (dropdown)
+- [x] dodane ulubione miasta (checkbox)
+- [x] ulubiona muzyka (dropdown)
+- [x] załączenie pliku
 
 ## opis uruchomienia
 
