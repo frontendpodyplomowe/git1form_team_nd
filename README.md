@@ -13,3 +13,6 @@
     - [x] ulubiony sport przy pomocy ```<input name="sport-choice" type="radio">```
     - [x] ulubiona muzyka przy pomocy ```<input type="checkbox" name="rock">```
     - [x] załączenia pliku przy pomocy ```<input type="file" name="file">```
+
+### Praca z Gitem
+- [x] Nauczyliśmy się tworzyć wersję kontrolną i podstawy z współpracy przy pomocy GitHuba/Gita
