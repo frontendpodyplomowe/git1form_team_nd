@@ -11,3 +11,4 @@ supported
 unordered or ordered list supported)
 - [x] this is a complete item
 - [ ] this is an incomplete item
+- [ ] zapis danych z formularza do LocalStorage
